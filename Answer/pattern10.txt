@@ -1,0 +1,16 @@
+java -cp /tmp/5oj4RPgOII/HelloWorld
+Try programiz.pro
+Enter num : 5
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+
+
+=== Code Execution Successful ===
