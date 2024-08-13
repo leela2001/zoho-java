@@ -1,0 +1,11 @@
+java -cp /tmp/6y9NnAnkxl/HelloWorld
+Try programiz.pro
+Enter num : 
+5
+             * 
+          *  * 
+       *  *  * 
+    *  *  *  * 
+ *  *  *  *  * 
+
+=== Code Execution Successful ===
