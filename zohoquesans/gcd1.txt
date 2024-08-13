@@ -1,4 +1,0 @@
-java -cp /tmp/tAFsOZyFMg/HelloWorld
-GCD of 9 and 12 is: 3
-
-=== Code Execution Successful ===
