@@ -1,0 +1,11 @@
+java -cp /tmp/Nomdt4Sfcv/HelloWorld
+Try programiz.pro
+Enter num : 
+5
+_ _ _ _ * 
+_ _ _ * * * 
+_ _ * * * * * 
+_ * * * * * * * 
+* * * * * * * * * 
+
+=== Code Execution Successful ===
