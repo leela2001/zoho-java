@@ -1,0 +1,9 @@
+Compilation Completed
+For Input: 
+7
+2 4 6 8 9 10 12
+2 4 6 8 10 12
+Your Output: 
+4
+Expected Output: 
+4
