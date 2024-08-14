@@ -1,0 +1,8 @@
+Compilation Completed
+For Input: 
+4
+13 6 7 12
+Your Output: 
+_ 7 12 13
+Expected Output: 
+_ 7 12 13
