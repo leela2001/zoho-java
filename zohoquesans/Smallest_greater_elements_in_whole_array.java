@@ -1,4 +1,4 @@
-//link refered in 
+//link refered in Bitonic_Generator_Sort.java
 
 import java.io.*;
 import java.util.*;
