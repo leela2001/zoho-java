@@ -1,0 +1,3 @@
+java -cp /tmp/tQWVLmHW9U/HelloWorld
+Odd(Desc) and Even(Asc) : 7 5 3 1 0 2 4 10 
+=== Code Execution Successful ===
