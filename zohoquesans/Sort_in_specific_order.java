@@ -1,6 +1,5 @@
+// youtube link: https://youtu.be/ZDw4i9NolJ8?si=Aa12F3jW--jgDRdF
 
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
 import java.util.*;
 class HelloWorld {
     public static void main(String[] args) {
