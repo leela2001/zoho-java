@@ -1,0 +1,8 @@
+Compilation Completed
+For Input: 
+16
+1 4 45 6 10 8
+Your Output: 
+true
+Expected Output: 
+true
