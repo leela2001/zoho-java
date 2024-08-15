@@ -1,0 +1,7 @@
+Compilation Completed
+For Input: 
+Help others
+Your Output: 
+sreh topleH
+Expected Output: 
+sreh topleH
