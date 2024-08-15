@@ -1,0 +1,8 @@
+Compilation Completed
+For Input: 
+computer
+cat
+Your Output: 
+ompuer
+Expected Output: 
+ompuer
