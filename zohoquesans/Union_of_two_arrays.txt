@@ -1,0 +1,8 @@
+Compilation Completed
+For Input: 
+1 2 3 4 5
+1 2 3
+Your Output: 
+5
+Expected Output: 
+5
