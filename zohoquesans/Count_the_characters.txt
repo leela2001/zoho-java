@@ -1,1 +1,7 @@
-hih
+Compilation Completed
+For Input: 
+abc 1
+Your Output: 
+3
+Expected Output: 
+3
